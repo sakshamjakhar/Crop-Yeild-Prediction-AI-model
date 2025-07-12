@@ -1,0 +1,1306 @@
+Year,State,Temp
+1980,Andhra Pradesh,25.8
+1981,Andhra Pradesh,26.0
+1982,Andhra Pradesh,26.2
+1983,Andhra Pradesh,26.3
+1984,Andhra Pradesh,26.4
+1985,Andhra Pradesh,26.5
+1986,Andhra Pradesh,26.6
+1987,Andhra Pradesh,26.7
+1988,Andhra Pradesh,26.8
+1989,Andhra Pradesh,26.9
+1990,Andhra Pradesh,27.0
+1991,Andhra Pradesh,27.1
+1992,Andhra Pradesh,27.2
+1993,Andhra Pradesh,27.3
+1994,Andhra Pradesh,27.4
+1995,Andhra Pradesh,27.5
+1996,Andhra Pradesh,27.6
+1997,Andhra Pradesh,27.7
+1998,Andhra Pradesh,27.8
+1999,Andhra Pradesh,27.9
+2000,Andhra Pradesh,28.0
+2001,Andhra Pradesh,28.1
+2002,Andhra Pradesh,28.2
+2003,Andhra Pradesh,28.3
+2004,Andhra Pradesh,28.4
+2005,Andhra Pradesh,28.5
+2006,Andhra Pradesh,28.6
+2007,Andhra Pradesh,28.7
+2008,Andhra Pradesh,28.8
+2009,Andhra Pradesh,28.9
+2010,Andhra Pradesh,29.0
+2011,Andhra Pradesh,29.1
+2012,Andhra Pradesh,29.2
+2013,Andhra Pradesh,29.3
+2014,Andhra Pradesh,26.9
+2015,Andhra Pradesh,27.0
+2016,Andhra Pradesh,26.8
+2017,Andhra Pradesh,26.9
+2018,Andhra Pradesh,27.0
+2019,Andhra Pradesh,27.1
+2020,Andhra Pradesh,27.0
+2021,Andhra Pradesh,27.2
+2022,Andhra Pradesh,27.3
+2023,Andhra Pradesh,27.4
+2024,Andhra Pradesh,27.5
+1980,Arunachal Pradesh,18.1
+1981,Arunachal Pradesh,18.4
+1982,Arunachal Pradesh,18.2
+1983,Arunachal Pradesh,18.5
+1984,Arunachal Pradesh,18.3
+1985,Arunachal Pradesh,18.6
+1986,Arunachal Pradesh,18.4
+1987,Arunachal Pradesh,18.7
+1988,Arunachal Pradesh,18.5
+1989,Arunachal Pradesh,18.8
+1990,Arunachal Pradesh,18.6
+1991,Arunachal Pradesh,18.9
+1992,Arunachal Pradesh,18.7
+1993,Arunachal Pradesh,19.0
+1994,Arunachal Pradesh,18.8
+1995,Arunachal Pradesh,19.1
+1996,Arunachal Pradesh,18.9
+1997,Arunachal Pradesh,19.2
+1998,Arunachal Pradesh,19.0
+1999,Arunachal Pradesh,19.3
+2000,Arunachal Pradesh,19.1
+2001,Arunachal Pradesh,19.4
+2002,Arunachal Pradesh,19.2
+2003,Arunachal Pradesh,19.5
+2004,Arunachal Pradesh,19.3
+2005,Arunachal Pradesh,19.6
+2006,Arunachal Pradesh,19.4
+2007,Arunachal Pradesh,19.7
+2008,Arunachal Pradesh,19.5
+2009,Arunachal Pradesh,19.8
+2010,Arunachal Pradesh,19.6
+2011,Arunachal Pradesh,19.9
+2012,Arunachal Pradesh,19.7
+2013,Arunachal Pradesh,20.0
+2014,Arunachal Pradesh,19.8
+2015,Arunachal Pradesh,20.1
+2016,Arunachal Pradesh,19.9
+2017,Arunachal Pradesh,20.2
+2018,Arunachal Pradesh,20.0
+2019,Arunachal Pradesh,20.3
+2020,Arunachal Pradesh,20.1
+2021,Arunachal Pradesh,20.4
+2022,Arunachal Pradesh,20.2
+2023,Arunachal Pradesh,20.5
+2024,Arunachal Pradesh,20.3
+1980,Assam,23.47
+1981,Assam,23.83
+1982,Assam,23.44
+1983,Assam,23.71
+1984,Assam,23.94
+1985,Assam,23.64
+1986,Assam,23.88
+1987,Assam,24.11
+1988,Assam,23.99
+1989,Assam,24.22
+1990,Assam,24.05
+1991,Assam,24.33
+1992,Assam,24.16
+1993,Assam,24.44
+1994,Assam,24.27
+1995,Assam,24.55
+1996,Assam,24.38
+1997,Assam,24.66
+1998,Assam,24.49
+1999,Assam,24.77
+2000,Assam,24.6
+2001,Assam,24.88
+2002,Assam,24.71
+2003,Assam,24.99
+2004,Assam,24.82
+2005,Assam,25.1
+2006,Assam,24.93
+2007,Assam,25.21
+2008,Assam,25.04
+2009,Assam,25.32
+2010,Assam,25.15
+2011,Assam,25.43
+2012,Assam,25.26
+2013,Assam,25.54
+2014,Assam,25.37
+2015,Assam,25.65
+2016,Assam,25.48
+2017,Assam,25.76
+2018,Assam,25.59
+2019,Assam,25.87
+2020,Assam,25.7
+2021,Assam,25.98
+2022,Assam,25.81
+2023,Assam,26.09
+2024,Assam,25.92
+1980,Bihar,24.1
+1981,Bihar,24.2
+1982,Bihar,24.3
+1983,Bihar,24.4
+1984,Bihar,24.5
+1985,Bihar,24.6
+1986,Bihar,24.7
+1987,Bihar,24.8
+1988,Bihar,24.9
+1989,Bihar,25.0
+1990,Bihar,25.1
+1991,Bihar,25.2
+1992,Bihar,25.3
+1993,Bihar,25.4
+1994,Bihar,25.5
+1995,Bihar,25.6
+1996,Bihar,25.7
+1997,Bihar,25.8
+1998,Bihar,25.9
+1999,Bihar,26.0
+2000,Bihar,26.1
+2001,Bihar,26.2
+2002,Bihar,26.3
+2003,Bihar,26.4
+2004,Bihar,26.5
+2005,Bihar,26.6
+2006,Bihar,26.7
+2007,Bihar,26.8
+2008,Bihar,26.9
+2009,Bihar,27.0
+2010,Bihar,27.1
+2011,Bihar,27.2
+2012,Bihar,27.3
+2013,Bihar,27.4
+2014,Bihar,27.5
+2015,Bihar,27.6
+2016,Bihar,27.7
+2017,Bihar,27.8
+2018,Bihar,27.9
+2019,Bihar,28.0
+2020,Bihar,28.1
+2021,Bihar,28.2
+2022,Bihar,28.3
+2023,Bihar,28.4
+2024,Bihar,28.5
+1980,Chhattisgarh,25.1
+1981,Chhattisgarh,25.2
+1982,Chhattisgarh,25.3
+1983,Chhattisgarh,25.4
+1984,Chhattisgarh,25.5
+1985,Chhattisgarh,25.6
+1986,Chhattisgarh,25.7
+1987,Chhattisgarh,25.8
+1988,Chhattisgarh,25.9
+1989,Chhattisgarh,26.0
+1990,Chhattisgarh,26.1
+1991,Chhattisgarh,26.2
+1992,Chhattisgarh,26.3
+1993,Chhattisgarh,26.4
+1994,Chhattisgarh,26.5
+1995,Chhattisgarh,26.6
+1996,Chhattisgarh,26.7
+1997,Chhattisgarh,26.8
+1998,Chhattisgarh,26.9
+1999,Chhattisgarh,27.0
+2000,Chhattisgarh,27.1
+2001,Chhattisgarh,27.2
+2002,Chhattisgarh,27.3
+2003,Chhattisgarh,27.4
+2004,Chhattisgarh,27.5
+2005,Chhattisgarh,27.6
+2006,Chhattisgarh,27.7
+2007,Chhattisgarh,27.8
+2008,Chhattisgarh,27.9
+2009,Chhattisgarh,28.0
+2010,Chhattisgarh,28.1
+2011,Chhattisgarh,28.2
+2012,Chhattisgarh,28.3
+2013,Chhattisgarh,28.4
+2014,Chhattisgarh,28.5
+2015,Chhattisgarh,28.6
+2016,Chhattisgarh,28.7
+2017,Chhattisgarh,28.8
+2018,Chhattisgarh,28.9
+2019,Chhattisgarh,29.0
+2020,Chhattisgarh,29.1
+2021,Chhattisgarh,29.2
+2022,Chhattisgarh,29.3
+2023,Chhattisgarh,29.4
+2024,Chhattisgarh,29.5
+1980,Goa,26.1
+1981,Goa,26.2
+1982,Goa,26.3
+1983,Goa,26.4
+1984,Goa,26.5
+1985,Goa,26.6
+1986,Goa,26.7
+1987,Goa,26.8
+1988,Goa,26.9
+1989,Goa,27.0
+1990,Goa,27.1
+1991,Goa,27.2
+1992,Goa,27.3
+1993,Goa,27.4
+1994,Goa,27.5
+1995,Goa,27.6
+1996,Goa,27.7
+1997,Goa,27.8
+1998,Goa,27.9
+1999,Goa,28.0
+2000,Goa,28.1
+2001,Goa,28.2
+2002,Goa,28.3
+2003,Goa,28.4
+2004,Goa,28.5
+2005,Goa,28.6
+2006,Goa,28.7
+2007,Goa,28.8
+2008,Goa,28.9
+2009,Goa,29.0
+2010,Goa,29.1
+2011,Goa,29.2
+2012,Goa,29.3
+2013,Goa,29.4
+2014,Goa,29.5
+2015,Goa,29.6
+2016,Goa,29.7
+2017,Goa,29.8
+2018,Goa,29.9
+2019,Goa,30.0
+2020,Goa,30.1
+2021,Goa,30.2
+2022,Goa,30.3
+2023,Goa,30.4
+2024,Goa,30.5
+1980,Gujarat,26.1
+1981,Gujarat,26.2
+1982,Gujarat,26.3
+1983,Gujarat,26.4
+1984,Gujarat,26.5
+1985,Gujarat,26.6
+1986,Gujarat,26.7
+1987,Gujarat,26.8
+1988,Gujarat,26.9
+1989,Gujarat,27.0
+1990,Gujarat,27.1
+1991,Gujarat,27.2
+1992,Gujarat,27.3
+1993,Gujarat,27.4
+1994,Gujarat,27.5
+1995,Gujarat,27.6
+1996,Gujarat,27.7
+1997,Gujarat,27.8
+1998,Gujarat,27.9
+1999,Gujarat,28.0
+2000,Gujarat,28.1
+2001,Gujarat,28.2
+2002,Gujarat,28.3
+2003,Gujarat,28.4
+2004,Gujarat,28.5
+2005,Gujarat,28.6
+2006,Gujarat,28.7
+2007,Gujarat,28.8
+2008,Gujarat,28.9
+2009,Gujarat,29.0
+2010,Gujarat,29.1
+2011,Gujarat,29.2
+2012,Gujarat,29.3
+2013,Gujarat,29.4
+2014,Gujarat,29.5
+2015,Gujarat,29.6
+2016,Gujarat,29.7
+2017,Gujarat,29.8
+2018,Gujarat,29.9
+2019,Gujarat,30.0
+2020,Gujarat,30.1
+2021,Gujarat,30.2
+2022,Gujarat,30.3
+2023,Gujarat,30.4
+2024,Gujarat,30.5
+1980,Himachal Pradesh,15.1
+1981,Himachal Pradesh,15.2
+1982,Himachal Pradesh,15.3
+1983,Himachal Pradesh,15.4
+1984,Himachal Pradesh,15.5
+1985,Himachal Pradesh,15.6
+1986,Himachal Pradesh,15.7
+1987,Himachal Pradesh,15.8
+1988,Himachal Pradesh,15.9
+1989,Himachal Pradesh,16.0
+1990,Himachal Pradesh,16.1
+1991,Himachal Pradesh,16.2
+1992,Himachal Pradesh,16.3
+1993,Himachal Pradesh,16.4
+1994,Himachal Pradesh,16.5
+1995,Himachal Pradesh,16.6
+1996,Himachal Pradesh,16.7
+1997,Himachal Pradesh,16.8
+1998,Himachal Pradesh,16.9
+1999,Himachal Pradesh,17.0
+2000,Himachal Pradesh,17.1
+2001,Himachal Pradesh,17.2
+2002,Himachal Pradesh,17.3
+2003,Himachal Pradesh,17.4
+2004,Himachal Pradesh,17.5
+2005,Himachal Pradesh,17.6
+2006,Himachal Pradesh,17.7
+2007,Himachal Pradesh,17.8
+2008,Himachal Pradesh,17.9
+2009,Himachal Pradesh,18.0
+2010,Himachal Pradesh,18.1
+2011,Himachal Pradesh,18.2
+2012,Himachal Pradesh,18.3
+2013,Himachal Pradesh,18.4
+2014,Himachal Pradesh,18.5
+2015,Himachal Pradesh,18.6
+2016,Himachal Pradesh,18.7
+2017,Himachal Pradesh,18.8
+2018,Himachal Pradesh,18.9
+2019,Himachal Pradesh,19.0
+2020,Himachal Pradesh,19.1
+2021,Himachal Pradesh,19.2
+2022,Himachal Pradesh,19.3
+2023,Himachal Pradesh,19.4
+2024,Himachal Pradesh,19.5
+1980,Jharkhand,23.8
+1981,Jharkhand,24.1
+1982,Jharkhand,23.9
+1983,Jharkhand,24.2
+1984,Jharkhand,24.4
+1985,Jharkhand,24.1
+1986,Jharkhand,24.5
+1987,Jharkhand,24.7
+1988,Jharkhand,24.6
+1989,Jharkhand,24.8
+1990,Jharkhand,25.0
+1991,Jharkhand,25.2
+1992,Jharkhand,25.1
+1993,Jharkhand,25.3
+1994,Jharkhand,25.5
+1995,Jharkhand,25.4
+1996,Jharkhand,25.6
+1997,Jharkhand,25.8
+1998,Jharkhand,25.7
+1999,Jharkhand,25.9
+2000,Jharkhand,26.1
+2001,Jharkhand,26.3
+2002,Jharkhand,26.2
+2003,Jharkhand,26.4
+2004,Jharkhand,26.6
+2005,Jharkhand,26.5
+2006,Jharkhand,26.7
+2007,Jharkhand,26.9
+2008,Jharkhand,26.8
+2009,Jharkhand,27.0
+2010,Jharkhand,27.2
+2011,Jharkhand,27.4
+2012,Jharkhand,27.3
+2013,Jharkhand,27.5
+2014,Jharkhand,27.7
+2015,Jharkhand,27.6
+2016,Jharkhand,27.8
+2017,Jharkhand,28.0
+2018,Jharkhand,27.9
+2019,Jharkhand,28.1
+2020,Jharkhand,28.3
+2021,Jharkhand,28.2
+2022,Jharkhand,28.4
+2023,Jharkhand,28.6
+2024,Jharkhand,28.5
+1980,Karnataka,26.1
+1981,Karnataka,26.2
+1982,Karnataka,26.3
+1983,Karnataka,26.4
+1984,Karnataka,26.5
+1985,Karnataka,26.6
+1986,Karnataka,26.7
+1987,Karnataka,26.8
+1988,Karnataka,26.9
+1989,Karnataka,27.0
+1990,Karnataka,27.1
+1991,Karnataka,27.2
+1992,Karnataka,27.3
+1993,Karnataka,27.4
+1994,Karnataka,27.5
+1995,Karnataka,27.6
+1996,Karnataka,27.7
+1997,Karnataka,27.8
+1998,Karnataka,27.9
+1999,Karnataka,28.0
+2000,Karnataka,28.1
+2001,Karnataka,28.2
+2002,Karnataka,28.3
+2003,Karnataka,28.4
+2004,Karnataka,28.5
+2005,Karnataka,28.6
+2006,Karnataka,28.7
+2007,Karnataka,28.8
+2008,Karnataka,28.9
+2009,Karnataka,29.0
+2010,Karnataka,29.1
+2011,Karnataka,29.2
+2012,Karnataka,29.3
+2013,Karnataka,29.4
+2014,Karnataka,29.5
+2015,Karnataka,29.6
+2016,Karnataka,29.7
+2017,Karnataka,29.8
+2018,Karnataka,29.9
+2019,Karnataka,30.0
+2020,Karnataka,30.1
+2021,Karnataka,30.2
+2022,Karnataka,30.3
+2023,Karnataka,30.4
+2024,Karnataka,30.5
+1980,Kerala,27.4
+1981,Kerala,27.5
+1982,Kerala,27.6
+1983,Kerala,27.7
+1984,Kerala,27.8
+1985,Kerala,27.9
+1986,Kerala,28.0
+1987,Kerala,28.1
+1988,Kerala,28.2
+1989,Kerala,28.3
+1990,Kerala,28.4
+1991,Kerala,28.5
+1992,Kerala,28.6
+1993,Kerala,28.7
+1994,Kerala,28.8
+1995,Kerala,28.9
+1996,Kerala,29.0
+1997,Kerala,29.1
+1998,Kerala,29.2
+1999,Kerala,29.3
+2000,Kerala,29.4
+2001,Kerala,29.5
+2002,Kerala,29.6
+2003,Kerala,29.7
+2004,Kerala,29.8
+2005,Kerala,29.9
+2006,Kerala,30.0
+2007,Kerala,30.1
+2008,Kerala,30.2
+2009,Kerala,30.3
+2010,Kerala,30.4
+2011,Kerala,30.5
+2012,Kerala,30.6
+2013,Kerala,30.7
+2014,Kerala,30.8
+2015,Kerala,30.9
+2016,Kerala,31.0
+2017,Kerala,31.1
+2018,Kerala,31.2
+2019,Kerala,31.3
+2020,Kerala,31.4
+2021,Kerala,31.5
+2022,Kerala,31.6
+2023,Kerala,31.7
+2024,Kerala,31.8
+1980,Madhya Pradesh,24.69
+1981,Madhya Pradesh,24.89
+1982,Madhya Pradesh,25.09
+1983,Madhya Pradesh,25.29
+1984,Madhya Pradesh,25.49
+1985,Madhya Pradesh,25.69
+1986,Madhya Pradesh,25.89
+1987,Madhya Pradesh,26.09
+1988,Madhya Pradesh,26.29
+1989,Madhya Pradesh,26.49
+1990,Madhya Pradesh,26.69
+1991,Madhya Pradesh,26.89
+1992,Madhya Pradesh,27.09
+1993,Madhya Pradesh,27.29
+1994,Madhya Pradesh,27.49
+1995,Madhya Pradesh,27.69
+1996,Madhya Pradesh,27.89
+1997,Madhya Pradesh,28.09
+1998,Madhya Pradesh,28.29
+1999,Madhya Pradesh,28.49
+2000,Madhya Pradesh,28.69
+2001,Madhya Pradesh,28.89
+2002,Madhya Pradesh,29.09
+2003,Madhya Pradesh,29.29
+2004,Madhya Pradesh,29.49
+2005,Madhya Pradesh,29.69
+2006,Madhya Pradesh,29.89
+2007,Madhya Pradesh,30.09
+2008,Madhya Pradesh,30.29
+2009,Madhya Pradesh,30.49
+2010,Madhya Pradesh,30.69
+2011,Madhya Pradesh,30.89
+2012,Madhya Pradesh,31.09
+2013,Madhya Pradesh,31.29
+2014,Madhya Pradesh,31.49
+2015,Madhya Pradesh,31.69
+2016,Madhya Pradesh,31.89
+2017,Madhya Pradesh,32.09
+2018,Madhya Pradesh,32.29
+2019,Madhya Pradesh,32.49
+2020,Madhya Pradesh,32.69
+2021,Madhya Pradesh,32.89
+2022,Madhya Pradesh,33.09
+2023,Madhya Pradesh,33.29
+2024,Madhya Pradesh,33.49
+1980,Maharashtra,26.1
+1981,Maharashtra,26.2
+1982,Maharashtra,26.3
+1983,Maharashtra,26.4
+1984,Maharashtra,26.5
+1985,Maharashtra,26.6
+1986,Maharashtra,26.7
+1987,Maharashtra,26.8
+1988,Maharashtra,26.9
+1989,Maharashtra,27.0
+1990,Maharashtra,27.1
+1991,Maharashtra,27.2
+1992,Maharashtra,27.3
+1993,Maharashtra,27.4
+1994,Maharashtra,27.5
+1995,Maharashtra,27.6
+1996,Maharashtra,27.7
+1997,Maharashtra,27.8
+1998,Maharashtra,27.9
+1999,Maharashtra,28.0
+2000,Maharashtra,28.1
+2001,Maharashtra,28.2
+2002,Maharashtra,28.3
+2003,Maharashtra,28.4
+2004,Maharashtra,28.5
+2005,Maharashtra,28.6
+2006,Maharashtra,28.7
+2007,Maharashtra,28.8
+2008,Maharashtra,28.9
+2009,Maharashtra,29.0
+2010,Maharashtra,29.1
+2011,Maharashtra,29.2
+2012,Maharashtra,29.3
+2013,Maharashtra,29.4
+2014,Maharashtra,29.5
+2015,Maharashtra,29.6
+2016,Maharashtra,29.7
+2017,Maharashtra,29.8
+2018,Maharashtra,29.9
+2019,Maharashtra,30.0
+2020,Maharashtra,30.1
+2021,Maharashtra,30.2
+2022,Maharashtra,30.3
+2023,Maharashtra,30.4
+2024,Maharashtra,30.5
+1980,Manipur,21.4
+1981,Manipur,21.7
+1982,Manipur,21.5
+1983,Manipur,21.8
+1984,Manipur,21.6
+1985,Manipur,21.9
+1986,Manipur,21.7
+1987,Manipur,22.0
+1988,Manipur,21.8
+1989,Manipur,22.1
+1990,Manipur,21.9
+1991,Manipur,22.2
+1992,Manipur,22.0
+1993,Manipur,22.3
+1994,Manipur,22.1
+1995,Manipur,22.4
+1996,Manipur,22.2
+1997,Manipur,22.5
+1998,Manipur,22.3
+1999,Manipur,22.6
+2000,Manipur,22.4
+2001,Manipur,22.7
+2002,Manipur,22.5
+2003,Manipur,22.8
+2004,Manipur,22.6
+2005,Manipur,22.9
+2006,Manipur,22.7
+2007,Manipur,23.0
+2008,Manipur,22.8
+2009,Manipur,23.1
+2010,Manipur,22.9
+2011,Manipur,23.2
+2012,Manipur,23.0
+2013,Manipur,23.3
+2014,Manipur,23.1
+2015,Manipur,23.4
+2016,Manipur,23.2
+2017,Manipur,23.5
+2018,Manipur,23.3
+2019,Manipur,23.6
+2020,Manipur,23.4
+2021,Manipur,23.7
+2022,Manipur,23.5
+2023,Manipur,23.8
+2024,Manipur,23.6
+1980,Meghalaya,24.1
+1981,Meghalaya,24.2
+1982,Meghalaya,24.3
+1983,Meghalaya,24.4
+1984,Meghalaya,24.5
+1985,Meghalaya,24.6
+1986,Meghalaya,24.7
+1987,Meghalaya,24.8
+1988,Meghalaya,24.9
+1989,Meghalaya,25.0
+1990,Meghalaya,25.1
+1991,Meghalaya,25.2
+1992,Meghalaya,25.3
+1993,Meghalaya,25.4
+1994,Meghalaya,25.5
+1995,Meghalaya,25.6
+1996,Meghalaya,25.7
+1997,Meghalaya,25.8
+1998,Meghalaya,25.9
+1999,Meghalaya,26.0
+2000,Meghalaya,26.1
+2001,Meghalaya,26.2
+2002,Meghalaya,26.3
+2003,Meghalaya,26.4
+2004,Meghalaya,26.5
+2005,Meghalaya,26.6
+2006,Meghalaya,26.7
+2007,Meghalaya,26.8
+2008,Meghalaya,26.9
+2009,Meghalaya,27.0
+2010,Meghalaya,27.1
+2011,Meghalaya,27.2
+2012,Meghalaya,27.3
+2013,Meghalaya,27.4
+2014,Meghalaya,27.5
+2015,Meghalaya,27.6
+2016,Meghalaya,27.7
+2017,Meghalaya,27.8
+2018,Meghalaya,27.9
+2019,Meghalaya,28.0
+2020,Meghalaya,28.1
+2021,Meghalaya,28.2
+2022,Meghalaya,28.3
+2023,Meghalaya,28.4
+2024,Meghalaya,28.5
+1980,Mizoram,24.1
+1981,Mizoram,24.2
+1982,Mizoram,24.3
+1983,Mizoram,24.4
+1984,Mizoram,24.5
+1985,Mizoram,24.6
+1986,Mizoram,24.7
+1987,Mizoram,24.8
+1988,Mizoram,24.9
+1989,Mizoram,25.0
+1990,Mizoram,25.1
+1991,Mizoram,25.2
+1992,Mizoram,25.3
+1993,Mizoram,25.4
+1994,Mizoram,25.5
+1995,Mizoram,25.6
+1996,Mizoram,25.7
+1997,Mizoram,25.8
+1998,Mizoram,25.9
+1999,Mizoram,26.0
+2000,Mizoram,26.1
+2001,Mizoram,26.2
+2002,Mizoram,26.3
+2003,Mizoram,26.4
+2004,Mizoram,26.5
+2005,Mizoram,26.6
+2006,Mizoram,26.7
+2007,Mizoram,26.8
+2008,Mizoram,26.9
+2009,Mizoram,27.0
+2010,Mizoram,27.1
+2011,Mizoram,27.2
+2012,Mizoram,27.3
+2013,Mizoram,27.4
+2014,Mizoram,27.5
+2015,Mizoram,27.6
+2016,Mizoram,27.7
+2017,Mizoram,27.8
+2018,Mizoram,27.9
+2019,Mizoram,28.0
+2020,Mizoram,28.1
+2021,Mizoram,28.2
+2022,Mizoram,28.3
+2023,Mizoram,28.4
+2024,Mizoram,28.5
+1980,Nagaland,23.4
+1981,Nagaland,23.8
+1982,Nagaland,23.4
+1983,Nagaland,23.7
+1984,Nagaland,23.9
+1985,Nagaland,23.6
+1986,Nagaland,23.9
+1987,Nagaland,24.1
+1988,Nagaland,24.0
+1989,Nagaland,24.2
+1990,Nagaland,24.1
+1991,Nagaland,24.3
+1992,Nagaland,24.2
+1993,Nagaland,24.4
+1994,Nagaland,24.3
+1995,Nagaland,24.5
+1996,Nagaland,24.4
+1997,Nagaland,24.7
+1998,Nagaland,24.5
+1999,Nagaland,24.8
+2000,Nagaland,24.6
+2001,Nagaland,24.9
+2002,Nagaland,24.7
+2003,Nagaland,25.0
+2004,Nagaland,24.8
+2005,Nagaland,25.1
+2006,Nagaland,24.9
+2007,Nagaland,25.2
+2008,Nagaland,25.0
+2009,Nagaland,25.3
+2010,Nagaland,25.1
+2011,Nagaland,25.4
+2012,Nagaland,25.2
+2013,Nagaland,25.5
+2014,Nagaland,25.3
+2015,Nagaland,25.6
+2016,Nagaland,25.4
+2017,Nagaland,25.7
+2018,Nagaland,25.5
+2019,Nagaland,25.8
+2020,Nagaland,25.6
+2021,Nagaland,25.9
+2022,Nagaland,25.7
+2023,Nagaland,26.0
+2024,Nagaland,25.8
+1980,Odisha,25.1
+1981,Odisha,25.2
+1982,Odisha,25.3
+1983,Odisha,25.4
+1984,Odisha,25.5
+1985,Odisha,25.6
+1986,Odisha,25.7
+1987,Odisha,25.8
+1988,Odisha,25.9
+1989,Odisha,26.0
+1990,Odisha,26.1
+1991,Odisha,26.2
+1992,Odisha,26.3
+1993,Odisha,26.4
+1994,Odisha,26.5
+1995,Odisha,26.6
+1996,Odisha,26.7
+1997,Odisha,26.8
+1998,Odisha,26.9
+1999,Odisha,27.0
+2000,Odisha,27.1
+2001,Odisha,27.2
+2002,Odisha,27.3
+2003,Odisha,27.4
+2004,Odisha,27.5
+2005,Odisha,27.6
+2006,Odisha,27.7
+2007,Odisha,27.8
+2008,Odisha,27.9
+2009,Odisha,28.0
+2010,Odisha,28.1
+2011,Odisha,28.2
+2012,Odisha,28.3
+2013,Odisha,28.4
+2014,Odisha,28.5
+2015,Odisha,28.6
+2016,Odisha,28.7
+2017,Odisha,28.8
+2018,Odisha,28.9
+2019,Odisha,29.0
+2020,Odisha,29.1
+2021,Odisha,29.2
+2022,Odisha,29.3
+2023,Odisha,29.4
+2024,Odisha,29.5
+1980,Punjab,22.4
+1981,Punjab,22.7
+1982,Punjab,22.2
+1983,Punjab,22.8
+1984,Punjab,22.5
+1985,Punjab,22.9
+1986,Punjab,23.1
+1987,Punjab,23.3
+1988,Punjab,23.5
+1989,Punjab,23.7
+1990,Punjab,23.9
+1991,Punjab,24.1
+1992,Punjab,24.3
+1993,Punjab,24.5
+1994,Punjab,24.7
+1995,Punjab,24.9
+1996,Punjab,25.1
+1997,Punjab,25.3
+1998,Punjab,25.5
+1999,Punjab,25.7
+2000,Punjab,25.9
+2001,Punjab,26.1
+2002,Punjab,26.3
+2003,Punjab,26.5
+2004,Punjab,26.7
+2005,Punjab,26.9
+2006,Punjab,27.1
+2007,Punjab,27.3
+2008,Punjab,27.5
+2009,Punjab,27.7
+2010,Punjab,27.9
+2011,Punjab,28.1
+2012,Punjab,28.3
+2013,Punjab,28.5
+2014,Punjab,28.7
+2015,Punjab,28.9
+2016,Punjab,29.1
+2017,Punjab,29.3
+2018,Punjab,29.5
+2019,Punjab,29.7
+2020,Punjab,29.9
+2021,Punjab,30.1
+2022,Punjab,30.3
+2023,Punjab,30.5
+2024,Punjab,30.7
+1980,Rajasthan,25.6
+1981,Rajasthan,25.9
+1982,Rajasthan,25.4
+1983,Rajasthan,26.0
+1984,Rajasthan,25.7
+1985,Rajasthan,26.1
+1986,Rajasthan,26.3
+1987,Rajasthan,26.5
+1988,Rajasthan,26.7
+1989,Rajasthan,26.9
+1990,Rajasthan,27.1
+1991,Rajasthan,27.3
+1992,Rajasthan,27.5
+1993,Rajasthan,27.7
+1994,Rajasthan,27.9
+1995,Rajasthan,28.1
+1996,Rajasthan,28.3
+1997,Rajasthan,28.5
+1998,Rajasthan,28.7
+1999,Rajasthan,28.9
+2000,Rajasthan,29.1
+2001,Rajasthan,29.3
+2002,Rajasthan,29.5
+2003,Rajasthan,29.7
+2004,Rajasthan,29.9
+2005,Rajasthan,30.1
+2006,Rajasthan,30.3
+2007,Rajasthan,30.5
+2008,Rajasthan,30.7
+2009,Rajasthan,30.9
+2010,Rajasthan,31.1
+2011,Rajasthan,31.3
+2012,Rajasthan,31.5
+2013,Rajasthan,31.7
+2014,Rajasthan,31.9
+2015,Rajasthan,32.1
+2016,Rajasthan,32.3
+2017,Rajasthan,32.5
+2018,Rajasthan,32.7
+2019,Rajasthan,32.9
+2020,Rajasthan,33.1
+2021,Rajasthan,33.3
+2022,Rajasthan,33.5
+2023,Rajasthan,33.7
+2024,Rajasthan,33.9
+1980,Sikkim,14.63
+1981,Sikkim,14.73
+1982,Sikkim,14.83
+1983,Sikkim,14.93
+1984,Sikkim,15.03
+1985,Sikkim,15.13
+1986,Sikkim,15.23
+1987,Sikkim,15.33
+1988,Sikkim,15.43
+1989,Sikkim,15.53
+1990,Sikkim,15.63
+1991,Sikkim,15.73
+1992,Sikkim,15.83
+1993,Sikkim,15.93
+1994,Sikkim,16.03
+1995,Sikkim,16.13
+1996,Sikkim,16.23
+1997,Sikkim,16.33
+1998,Sikkim,16.43
+1999,Sikkim,16.53
+2000,Sikkim,16.63
+2001,Sikkim,16.73
+2002,Sikkim,16.83
+2003,Sikkim,16.93
+2004,Sikkim,17.03
+2005,Sikkim,17.13
+2006,Sikkim,17.23
+2007,Sikkim,17.33
+2008,Sikkim,17.43
+2009,Sikkim,17.53
+2010,Sikkim,17.63
+2011,Sikkim,17.73
+2012,Sikkim,17.83
+2013,Sikkim,17.93
+2014,Sikkim,18.03
+2015,Sikkim,18.13
+2016,Sikkim,18.23
+2017,Sikkim,18.33
+2018,Sikkim,18.43
+2019,Sikkim,18.53
+2020,Sikkim,18.63
+2021,Sikkim,18.73
+2022,Sikkim,18.83
+2023,Sikkim,18.93
+2024,Sikkim,19.03
+1980,Tamil Nadu,28.34
+1981,Tamil Nadu,28.44
+1982,Tamil Nadu,28.54
+1983,Tamil Nadu,28.64
+1984,Tamil Nadu,28.74
+1985,Tamil Nadu,28.84
+1986,Tamil Nadu,28.94
+1987,Tamil Nadu,29.04
+1988,Tamil Nadu,29.14
+1989,Tamil Nadu,29.24
+1990,Tamil Nadu,29.34
+1991,Tamil Nadu,29.44
+1992,Tamil Nadu,29.54
+1993,Tamil Nadu,29.64
+1994,Tamil Nadu,29.74
+1995,Tamil Nadu,29.84
+1996,Tamil Nadu,29.94
+1997,Tamil Nadu,30.04
+1998,Tamil Nadu,30.14
+1999,Tamil Nadu,30.24
+2000,Tamil Nadu,30.34
+2001,Tamil Nadu,30.44
+2002,Tamil Nadu,30.54
+2003,Tamil Nadu,30.64
+2004,Tamil Nadu,30.74
+2005,Tamil Nadu,30.84
+2006,Tamil Nadu,30.94
+2007,Tamil Nadu,31.04
+2008,Tamil Nadu,31.14
+2009,Tamil Nadu,31.24
+2010,Tamil Nadu,31.34
+2011,Tamil Nadu,31.44
+2012,Tamil Nadu,31.54
+2013,Tamil Nadu,31.64
+2014,Tamil Nadu,31.74
+2015,Tamil Nadu,31.84
+2016,Tamil Nadu,31.94
+2017,Tamil Nadu,32.04
+2018,Tamil Nadu,32.14
+2019,Tamil Nadu,32.24
+2020,Tamil Nadu,32.34
+2021,Tamil Nadu,32.44
+2022,Tamil Nadu,32.54
+2023,Tamil Nadu,32.64
+2024,Tamil Nadu,32.74
+1980,Telangana,26.1
+1981,Telangana,26.2
+1982,Telangana,26.3
+1983,Telangana,26.4
+1984,Telangana,26.5
+1985,Telangana,26.6
+1986,Telangana,26.7
+1987,Telangana,26.8
+1988,Telangana,26.9
+1989,Telangana,27.0
+1990,Telangana,27.1
+1991,Telangana,27.2
+1992,Telangana,27.3
+1993,Telangana,27.4
+1994,Telangana,27.5
+1995,Telangana,27.6
+1996,Telangana,27.7
+1997,Telangana,27.8
+1998,Telangana,27.9
+1999,Telangana,28.0
+2000,Telangana,28.1
+2001,Telangana,28.2
+2002,Telangana,28.3
+2003,Telangana,28.4
+2004,Telangana,28.5
+2005,Telangana,28.6
+2006,Telangana,28.7
+2007,Telangana,28.8
+2008,Telangana,28.9
+2009,Telangana,29.0
+2010,Telangana,29.1
+2011,Telangana,29.2
+2012,Telangana,29.3
+2013,Telangana,29.4
+2014,Telangana,29.5
+2015,Telangana,29.6
+2016,Telangana,29.7
+2017,Telangana,29.8
+2018,Telangana,29.9
+2019,Telangana,30.0
+2020,Telangana,30.1
+2021,Telangana,30.2
+2022,Telangana,30.3
+2023,Telangana,30.4
+2024,Telangana,30.5
+1980,Tripura,23.47
+1981,Tripura,23.83
+1982,Tripura,23.44
+1983,Tripura,23.71
+1984,Tripura,23.94
+1985,Tripura,23.64
+1986,Tripura,23.88
+1987,Tripura,24.11
+1988,Tripura,23.99
+1989,Tripura,24.22
+1990,Tripura,24.05
+1991,Tripura,24.33
+1992,Tripura,24.16
+1993,Tripura,24.44
+1994,Tripura,24.27
+1995,Tripura,24.55
+1996,Tripura,24.38
+1997,Tripura,24.66
+1998,Tripura,24.49
+1999,Tripura,24.77
+2000,Tripura,24.6
+2001,Tripura,24.88
+2002,Tripura,24.71
+2003,Tripura,24.99
+2004,Tripura,24.82
+2005,Tripura,25.1
+2006,Tripura,24.93
+2007,Tripura,25.21
+2008,Tripura,25.04
+2009,Tripura,25.32
+2010,Tripura,25.15
+2011,Tripura,25.43
+2012,Tripura,25.26
+2013,Tripura,25.54
+2014,Tripura,25.37
+2015,Tripura,25.65
+2016,Tripura,25.48
+2017,Tripura,25.76
+2018,Tripura,25.59
+2019,Tripura,25.87
+2020,Tripura,25.7
+2021,Tripura,25.98
+2022,Tripura,25.81
+2023,Tripura,26.09
+2024,Tripura,25.92
+1980,Uttar Pradesh,25.1
+1981,Uttar Pradesh,25.2
+1982,Uttar Pradesh,25.3
+1983,Uttar Pradesh,25.4
+1984,Uttar Pradesh,25.5
+1985,Uttar Pradesh,25.6
+1986,Uttar Pradesh,25.7
+1987,Uttar Pradesh,25.8
+1988,Uttar Pradesh,25.9
+1989,Uttar Pradesh,26.0
+1990,Uttar Pradesh,26.1
+1991,Uttar Pradesh,26.2
+1992,Uttar Pradesh,26.3
+1993,Uttar Pradesh,26.4
+1994,Uttar Pradesh,26.5
+1995,Uttar Pradesh,26.6
+1996,Uttar Pradesh,26.7
+1997,Uttar Pradesh,26.8
+1998,Uttar Pradesh,26.9
+1999,Uttar Pradesh,27.0
+2000,Uttar Pradesh,27.1
+2001,Uttar Pradesh,27.2
+2002,Uttar Pradesh,27.3
+2003,Uttar Pradesh,27.4
+2004,Uttar Pradesh,27.5
+2005,Uttar Pradesh,27.6
+2006,Uttar Pradesh,27.7
+2007,Uttar Pradesh,27.8
+2008,Uttar Pradesh,27.9
+2009,Uttar Pradesh,28.0
+2010,Uttar Pradesh,28.1
+2011,Uttar Pradesh,28.2
+2012,Uttar Pradesh,28.3
+2013,Uttar Pradesh,28.4
+2014,Uttar Pradesh,28.5
+2015,Uttar Pradesh,28.6
+2016,Uttar Pradesh,28.7
+2017,Uttar Pradesh,28.8
+2018,Uttar Pradesh,28.9
+2019,Uttar Pradesh,29.0
+2020,Uttar Pradesh,29.1
+2021,Uttar Pradesh,29.2
+2022,Uttar Pradesh,29.3
+2023,Uttar Pradesh,29.4
+2024,Uttar Pradesh,29.5
+1980,Uttarakhand,25.1
+1981,Uttarakhand,25.2
+1982,Uttarakhand,25.3
+1983,Uttarakhand,25.4
+1984,Uttarakhand,25.5
+1985,Uttarakhand,25.6
+1986,Uttarakhand,25.7
+1987,Uttarakhand,25.8
+1988,Uttarakhand,25.9
+1989,Uttarakhand,26.0
+1990,Uttarakhand,26.1
+1991,Uttarakhand,26.2
+1992,Uttarakhand,26.3
+1993,Uttarakhand,26.4
+1994,Uttarakhand,26.5
+1995,Uttarakhand,26.6
+1996,Uttarakhand,26.7
+1997,Uttarakhand,26.8
+1998,Uttarakhand,26.9
+1999,Uttarakhand,27.0
+2000,Uttarakhand,27.1
+2001,Uttarakhand,27.2
+2002,Uttarakhand,27.3
+2003,Uttarakhand,27.4
+2004,Uttarakhand,27.5
+2005,Uttarakhand,27.6
+2006,Uttarakhand,27.7
+2007,Uttarakhand,27.8
+2008,Uttarakhand,27.9
+2009,Uttarakhand,28.0
+2010,Uttarakhand,28.1
+2011,Uttarakhand,28.2
+2012,Uttarakhand,28.3
+2013,Uttarakhand,28.4
+2014,Uttarakhand,28.5
+2015,Uttarakhand,28.6
+2016,Uttarakhand,28.7
+2017,Uttarakhand,28.8
+2018,Uttarakhand,28.9
+2019,Uttarakhand,29.0
+2020,Uttarakhand,29.1
+2021,Uttarakhand,29.2
+2022,Uttarakhand,29.3
+2023,Uttarakhand,29.4
+2024,Uttarakhand,29.5
+1980,West Bengal,25.1
+1981,West Bengal,25.2
+1982,West Bengal,25.3
+1983,West Bengal,25.4
+1984,West Bengal,25.5
+1985,West Bengal,25.6
+1986,West Bengal,25.7
+1987,West Bengal,25.8
+1988,West Bengal,25.9
+1989,West Bengal,26.0
+1990,West Bengal,26.1
+1991,West Bengal,26.2
+1992,West Bengal,26.3
+1993,West Bengal,26.4
+1994,West Bengal,26.5
+1995,West Bengal,26.6
+1996,West Bengal,26.7
+1997,West Bengal,26.8
+1998,West Bengal,26.9
+1999,West Bengal,27.0
+2000,West Bengal,27.1
+2001,West Bengal,27.2
+2002,West Bengal,27.3
+2003,West Bengal,27.4
+2004,West Bengal,27.5
+2005,West Bengal,27.6
+2006,West Bengal,27.7
+2007,West Bengal,27.8
+2008,West Bengal,27.9
+2009,West Bengal,28.0
+2010,West Bengal,28.1
+2011,West Bengal,28.2
+2012,West Bengal,28.3
+2013,West Bengal,28.4
+2014,West Bengal,28.5
+2015,West Bengal,28.6
+2016,West Bengal,28.7
+2017,West Bengal,28.8
+2018,West Bengal,28.9
+2019,West Bengal,29.0
+2020,West Bengal,29.1
+2021,West Bengal,29.2
+2022,West Bengal,29.3
+2023,West Bengal,29.4
+2024,West Bengal,29.5
+1980,Delhi,25.1
+1981,Delhi,25.2
+1982,Delhi,25.3
+1983,Delhi,25.4
+1984,Delhi,25.5
+1985,Delhi,25.6
+1986,Delhi,25.7
+1987,Delhi,25.8
+1988,Delhi,25.9
+1989,Delhi,26.0
+1990,Delhi,26.1
+1991,Delhi,26.2
+1992,Delhi,26.3
+1993,Delhi,26.4
+1994,Delhi,26.5
+1995,Delhi,26.6
+1996,Delhi,26.7
+1997,Delhi,26.8
+1998,Delhi,26.9
+1999,Delhi,27.0
+2000,Delhi,27.1
+2001,Delhi,27.2
+2002,Delhi,27.3
+2003,Delhi,27.4
+2004,Delhi,27.5
+2005,Delhi,27.6
+2006,Delhi,27.7
+2007,Delhi,27.8
+2008,Delhi,27.9
+2009,Delhi,28.0
+2010,Delhi,28.1
+2011,Delhi,28.2
+2012,Delhi,28.3
+2013,Delhi,28.4
+2014,Delhi,28.5
+2015,Delhi,28.6
+2016,Delhi,28.7
+2017,Delhi,28.8
+2018,Delhi,28.9
+2019,Delhi,29.0
+2020,Delhi,29.1
+2021,Delhi,29.2
+2022,Delhi,29.3
+2023,Delhi,29.4
+2024,Delhi,29.5
+1980,Haryana,24.5
+1981,Haryana,24.8
+1982,Haryana,24.6
+1983,Haryana,24.9
+1984,Haryana,24.7
+1985,Haryana,24.9
+1986,Haryana,25.1
+1987,Haryana,25.3
+1988,Haryana,24.9
+1989,Haryana,25.1
+1990,Haryana,25.3
+1991,Haryana,25.2
+1992,Haryana,25.4
+1993,Haryana,25.5
+1994,Haryana,25.3
+1995,Haryana,25.4
+1996,Haryana,25.2
+1997,Haryana,25.3
+1998,Haryana,25.5
+1999,Haryana,25.4
+2000,Haryana,25.3
+2001,Haryana,25.2
+2002,Haryana,25.4
+2003,Haryana,25.5
+2004,Haryana,25.3
+2005,Haryana,25.4
+2006,Haryana,25.5
+2007,Haryana,25.6
+2008,Haryana,25.4
+2009,Haryana,25.5
+2010,Haryana,25.6
+2011,Haryana,25.7
+2012,Haryana,25.5
+2013,Haryana,25.6
+2014,Haryana,25.7
+2015,Haryana,25.8
+2016,Haryana,25.6
+2017,Haryana,25.7
+2018,Haryana,25.8
+2019,Haryana,25.9
+2020,Haryana,25.8
+2021,Haryana,26.0
+2022,Haryana,26.1
+2023,Haryana,26.2
+2024,Haryana,26.3
